@@ -1,0 +1,70 @@
+.loginBox
+{
+	width:300px;
+	height:500px;
+	border:5px solid #000;
+	border-radius:100px;	
+	padding: 10px 40px 25px;
+}
+.loginBox h3
+{
+	background-color:#black;
+	color:#00F;
+	text-align:center;
+	padding:20px;
+	border-radius: 10px 10px 0 0;
+	margin: -10px -40px;
+	border-bottom:1px solid #999;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size:24px;
+	font-weight:bold;
+}
+input[type=text],input[type=password]
+{
+	width:280px;
+	padding:10px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size:20px;
+	margin-top:10px;
+}
+label
+{
+	font-size:20px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+input[type=submit]
+{
+	background-color: #0b3b0b;
+	width:300px;
+	border:0;
+	padding:10px;
+	color:#FFF;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size:20px;
+	border-radius:5px;
+	margin-top:40px;
+	font-weight:bold;
+}
+.error
+{
+	color:red;
+	margin-top:10px;
+	font-size:18px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.hello
+{
+	font-size:36px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+
+.logout
+{
+	font-size:20px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	width:300px;
+	height:380px;
+	border:5px solid #000;
+	border-radius:10px;	
+	padding: 10px 40px 25px;
+}
